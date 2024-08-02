@@ -1,7 +1,7 @@
 # Project Descripation 
 Para Bank selenium Framework project for Registeration Flow and Login 
 
-# Tech Stach:
+# Tech Usage:
 
 - Java 
 - selenium
