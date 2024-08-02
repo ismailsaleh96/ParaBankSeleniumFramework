@@ -1,0 +1,4 @@
+pages\PageBase.class
+pages\UserRegistrationPage.class
+pages\LoginPage.class
+pages\HomePage.class

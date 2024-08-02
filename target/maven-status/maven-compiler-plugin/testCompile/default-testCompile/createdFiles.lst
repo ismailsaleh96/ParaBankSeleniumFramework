@@ -1,0 +1,9 @@
+utilities\Helper.class
+tests\UserRegistrationTestWithDDTAndCSV.class
+steps\TestUserRegistration.class
+tests\MobilecompatibilityTest.class
+tests\TestBase.class
+data\ExcelReader.class
+data\JsonDataReader.class
+tests\UserRegistrationTest.class
+runner\TestRunner.class

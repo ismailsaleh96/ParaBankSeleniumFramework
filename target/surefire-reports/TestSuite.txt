@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 9, Time elapsed: 1.663 s <<< FAILURE! - in TestSuite
+startDriver(tests.MobilecompatibilityTest)  Time elapsed: 1.325 s  <<< FAILURE!
+java.lang.NoSuchMethodError: 'java.util.stream.Collector com.google.common.collect.ImmutableList.toImmutableList()'
+

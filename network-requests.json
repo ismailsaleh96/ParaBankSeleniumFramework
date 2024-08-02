@@ -1,0 +1,1913 @@
+[
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:33 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://accounts.google.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 4500,
+      "dnsNanos": 72700,
+      "connectNanos": 276735100,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "142.250.110.84",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:36 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://accounts.google.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 6100,
+      "dnsNanos": 119300,
+      "connectNanos": 2485059700,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "142.250.110.84",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:40 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://optimizationguide-pa.googleapis.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 8500,
+      "dnsNanos": 114657400,
+      "connectNanos": 367059800,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "216.58.205.202",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:41 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 4500,
+      "dnsNanos": 84300,
+      "connectNanos": 231500400,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:41 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 4000,
+      "dnsNanos": 84500,
+      "connectNanos": 247871400,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:41 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/index.htm",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 717,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "text/html;charset\u003dISO-8859-1",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 457,
+      "bodySize": 1439,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3300,
+      "dnsNanos": 68200,
+      "connectNanos": 206726300,
+      "sendNanos": 816300,
+      "waitNanos": 968613400,
+      "receiveNanos": 4378000,
+      "sslNanos": 123711200,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:42 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/template.css;jsessionid\u003d5E40BD000C34E83595EC73E1654262CB",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 686,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "text/css",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 406,
+      "bodySize": 1810,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 999600,
+      "waitNanos": 288230000,
+      "receiveNanos": 6611600,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:42 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3600,
+      "dnsNanos": 92500,
+      "connectNanos": 207517600,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:42 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 6700,
+      "dnsNanos": 84700,
+      "connectNanos": 246304100,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:43 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/style.css;jsessionid\u003d5E40BD000C34E83595EC73E1654262CB",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 683,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "text/css",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 405,
+      "bodySize": 585,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 476100,
+      "waitNanos": 697774800,
+      "receiveNanos": 716200,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:43 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 617,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "OK",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "application/javascript",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 532,
+      "bodySize": 3886,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 10600,
+      "dnsNanos": 105100,
+      "connectNanos": 218276100,
+      "sendNanos": 711000,
+      "waitNanos": 342695200,
+      "receiveNanos": 5005900,
+      "sslNanos": 132173700,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:43 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/clear.gif;jsessionid\u003d5E40BD000C34E83595EC73E1654262CB",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 736,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/gif",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 398,
+      "bodySize": 807,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1478400,
+      "waitNanos": 807368300,
+      "receiveNanos": 435400,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:43 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/logo.gif;jsessionid\u003d5E40BD000C34E83595EC73E1654262CB",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 735,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/gif",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 400,
+      "bodySize": 1483,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 542600,
+      "waitNanos": 293470900,
+      "receiveNanos": 3056600,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:43 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js;jsessionid\u003d5E40BD000C34E83595EC73E1654262CB",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 694,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "text/javascript",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 413,
+      "bodySize": 31675,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3200,
+      "dnsNanos": 83500,
+      "connectNanos": 199944500,
+      "sendNanos": 683700,
+      "waitNanos": 903133200,
+      "receiveNanos": 307471800,
+      "sslNanos": 115131100,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:44 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/main-bg.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 741,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/webp",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 557,
+      "bodySize": 268,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 864400,
+      "waitNanos": 753319400,
+      "receiveNanos": 580700,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:44 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/topbg.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 739,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/webp",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 555,
+      "bodySize": 414,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 514700,
+      "waitNanos": 302480400,
+      "receiveNanos": 573200,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:44 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid\u003d5E40BD000C34E83595EC73E1654262CB",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 742,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/jpeg",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 403,
+      "bodySize": 58862,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 733400,
+      "waitNanos": 291501200,
+      "receiveNanos": 195039000,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:44 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3400,
+      "dnsNanos": 109300,
+      "connectNanos": 227890700,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:44 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 2200,
+      "dnsNanos": 51700,
+      "connectNanos": 237011600,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:44 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3700,
+      "dnsNanos": 87700,
+      "connectNanos": 239528500,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/atmhand.jpg",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 741,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/jpeg",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 506,
+      "bodySize": 6481,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1335100,
+      "waitNanos": 808981700,
+      "receiveNanos": 6751600,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3800,
+      "dnsNanos": 86800,
+      "connectNanos": 213782200,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://content-autofill.googleapis.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 25900,
+      "dnsNanos": 105780700,
+      "connectNanos": 292529100,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "142.250.200.202",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3400,
+      "dnsNanos": 151400,
+      "connectNanos": 241632800,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/bullet2-normal.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 748,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/gif",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 526,
+      "bodySize": 60,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 601100,
+      "waitNanos": 110970200,
+      "receiveNanos": 1516800,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/sky-color-bg.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 746,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/gif",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 515,
+      "bodySize": 36,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1625700,
+      "waitNanos": 289861800,
+      "receiveNanos": 3724700,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 4400,
+      "dnsNanos": 122600,
+      "connectNanos": 373387100,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/button-bgr.png",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 744,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/webp",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 570,
+      "bodySize": 74,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3900,
+      "dnsNanos": 95900,
+      "connectNanos": 194758900,
+      "sendNanos": 782900,
+      "waitNanos": 123979400,
+      "receiveNanos": 546700,
+      "sslNanos": 117515000,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/bullet-hover.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 746,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/gif",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 515,
+      "bodySize": 83,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3200,
+      "dnsNanos": 52200,
+      "connectNanos": 199768700,
+      "sendNanos": 448400,
+      "waitNanos": 807657800,
+      "receiveNanos": 776500,
+      "sslNanos": 108672200,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/bullet-normal.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 747,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/gif",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 515,
+      "bodySize": 81,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 852400,
+      "waitNanos": 345201500,
+      "receiveNanos": 1216900,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/home-normal.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 745,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/webp",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 574,
+      "bodySize": 916,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 557300,
+      "waitNanos": 113251500,
+      "receiveNanos": 1753000,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:45 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 8100,
+      "dnsNanos": 174400,
+      "connectNanos": 188291700,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/aboutus-normal.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 748,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/webp",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 566,
+      "bodySize": 976,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1778900,
+      "waitNanos": 283543100,
+      "receiveNanos": 504200,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/contact-normal.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 748,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/webp",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 566,
+      "bodySize": 990,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1676100,
+      "waitNanos": 1422423000,
+      "receiveNanos": 1591400,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/bodybg.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 740,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/webp",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 569,
+      "bodySize": 186,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1102200,
+      "waitNanos": 110610700,
+      "receiveNanos": 1228300,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/icon2.jpg",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 739,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/jpeg",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 504,
+      "bodySize": 740,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1343800,
+      "waitNanos": 297836500,
+      "receiveNanos": 290500,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/icon4.jpg",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 739,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/jpeg",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 513,
+      "bodySize": 8697,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1408600,
+      "waitNanos": 123530800,
+      "receiveNanos": 12984600,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://parabank.parasoft.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 8400,
+      "dnsNanos": 196700,
+      "connectNanos": 250545900,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/parabank/images/footerbg.gif",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 742,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/gif",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 526,
+      "bodySize": 57,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 690800,
+      "waitNanos": 108930200,
+      "receiveNanos": 271800,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:46 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://content-autofill.googleapis.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 4500,
+      "dnsNanos": 122500,
+      "connectNanos": 237104900,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "142.250.200.202",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:47 PM",
+    "request": {
+      "method": "GET",
+      "url": "https://parabank.parasoft.com/favicon.ico",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 625,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 200,
+      "statusText": "OK",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "image/x-icon",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": 455,
+      "bodySize": 3254,
+      "comment": ""
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": -1,
+      "dnsNanos": -1,
+      "connectNanos": -1,
+      "sendNanos": 1569500,
+      "waitNanos": 290299300,
+      "receiveNanos": 693900,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "172.67.6.33",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:47 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://accounts.google.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3600,
+      "dnsNanos": 103200,
+      "connectNanos": 202543700,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "142.250.110.84",
+    "comment": ""
+  },
+  {
+    "pageref": "parabank.parasoft.com",
+    "startedDateTime": "Aug 2, 2024, 2:44:47 PM",
+    "request": {
+      "method": "CONNECT",
+      "url": "https://content-autofill.googleapis.com",
+      "httpVersion": "HTTP/1.1",
+      "cookies": [],
+      "headers": [],
+      "queryString": [],
+      "headersSize": 0,
+      "bodySize": 0,
+      "comment": ""
+    },
+    "response": {
+      "status": 0,
+      "statusText": "",
+      "httpVersion": "unknown",
+      "cookies": [],
+      "headers": [],
+      "content": {
+        "size": 0,
+        "mimeType": "",
+        "comment": ""
+      },
+      "redirectURL": "",
+      "headersSize": -1,
+      "bodySize": -1,
+      "comment": "",
+      "error": "Unable to connect to host"
+    },
+    "cache": {},
+    "timings": {
+      "blockedNanos": 3100,
+      "dnsNanos": 77400,
+      "connectNanos": 231858800,
+      "sendNanos": 0,
+      "waitNanos": 0,
+      "receiveNanos": 0,
+      "sslNanos": -1,
+      "comment": ""
+    },
+    "serverIPAddress": "142.250.200.202",
+    "comment": ""
+  }
+]

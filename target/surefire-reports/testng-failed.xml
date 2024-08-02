@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Regression Test(failed)" verbose="0">
+    <classes>
+      <class name="tests.MobilecompatibilityTest">
+        <methods>
+          <include name="startDriver"/>
+          <include name="setUpClass"/>
+          <include name="screenshotOnFailure"/>
+          <include name="testMobileResolutions"/>
+          <include name="tearDownClass"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.MobilecompatibilityTest -->
+      <class name="tests.UserRegistrationTestWithDDTAndCSV">
+        <methods>
+          <include name="startDriver"/>
+          <include name="setUpClass"/>
+          <include name="screenshotOnFailure"/>
+          <include name="tearDownClass"/>
+          <include name="UserCanRegisterSuccssfully"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.UserRegistrationTestWithDDTAndCSV -->
+      <class name="tests.UserRegistrationTest">
+        <methods>
+          <include name="startDriver"/>
+          <include name="setUpClass"/>
+          <include name="screenshotOnFailure"/>
+          <include name="UserCanRegisterSuccssfully"/>
+          <include name="RegisteredUserCanLogout"/>
+          <include name="tearDownClass"/>
+          <include name="RegisteredUserCanLogin"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.UserRegistrationTest -->
+    </classes>
+  </test> <!-- Regression Test(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
